@@ -1,5 +1,5 @@
 #Joint work with Joseph Miller
-setwd("/home/joey/Desktop/Kaggle") # Desktop
+setwd("/home/Desktop/Kaggle") # Desktop
 setwd("Desktop/Kaggle/") # Mac
 train <- read.csv(file = "train.csv", as.is=T)
 
